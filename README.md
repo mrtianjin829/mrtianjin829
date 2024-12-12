@@ -19,7 +19,7 @@
 - Reverse Engineering
 - Lua
 ## Inactivity
-I usually don't stay active on GitHub due to high school and pressure of studies.
+I usually don't stay active on GitHub due to high school and pressure of studies, but anyways, 
 **Wish you all a good day!**
 
 <!---
