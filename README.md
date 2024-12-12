@@ -5,7 +5,7 @@
   - C/C++ (not much knowledge of stdlib)
   - Makefile (only the basics)
   - Lua (learning the C API)
-  - Nim (currently learning)
+  - Nim (currently learning, will begin using it mainly soon)
   - Bash (only the basics)
 
 ## Linux denominations I use
@@ -18,7 +18,8 @@
 - Music / Bytebeat
 - Reverse Engineering
 - Lua
-- 
+## Inactivity
+I usually don't stay active on GitHub due to high school and pressure of studies.
 **Wish you all a good day!**
 
 <!---
