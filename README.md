@@ -7,12 +7,16 @@
   - Lua (learning the C API)
   - Nim (currently learning, will begin using it mainly soon)
   - Bash (only the basics)
+- I use:
+  - Nix (not NixOS)
+  - youtube-dl
 
 ## Linux denominations I use
 - Linux Mint (in my old pc. Note: I will switch to Fedora soon in place of Mint)
 - Termux (my daily driver)
 - Arch/Artix linux (on virtual machines)
 - Alpine linux (for trying docker images)
+- Gentoo (in vms, and for fun)
 
 ## My Area of interest:
 - Music / Bytebeat
