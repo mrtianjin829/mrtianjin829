@@ -6,6 +6,7 @@ I have AD. It buffs and nerfs some parts of my brain, but I'm okay with it.
 ---
 
 Uh, no offense, but I don't like people who evangelize Linux.
+
 **Note:** Due to a specific individual (wont disclose the name) and some anomalous stuff that happened in Discord in late 2024 (for some weird reason I don't know of), there may not but might be some people making conspiracies about me in my name. If you encounter them, **don't** believe in it.
 ## Programming
 - My programming languages are:
