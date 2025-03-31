@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @mrtianjin829
+# About
+Hello, I am **Tiyen** (aka. Sniffier or Shreni, whatever). I am a teenage programmer, and a daily Linux user, who is interested in seeing and contributing to the code of others. I am from the Republic of Molossia in Nevada, USA.
+My main interests are of course, programming, and linux, not also that but also interested in Abrahamic theology and some areas of fitness (yeah thats very unlikely).
+I have AD. It buffs and nerfs some parts of my brain, but I'm okay with it.
+
+---
+
+Uh, no offense, but I don't like people who evangelize Linux.
+
+## Programming
 - My programming languages are:
   - Javascript/Typescript (abandoned)
   - Rust (abandoned)
